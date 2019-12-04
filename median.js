@@ -1,1 +1,2 @@
-</script>
+<script>
+var score = [100, ];
